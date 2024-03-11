@@ -1,3 +1,3 @@
-Hello ..
-Hello .. Iam in master branch.
+Hello..
+Hello .. I am in master branch
 
